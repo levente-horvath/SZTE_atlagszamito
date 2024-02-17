@@ -1,0 +1,18 @@
+MBNXK225E	Műszaki matematika I.	3	2		
+XT0011-00184	Kick - box	0	1		
+IB001e-00020	Bevezetés a mobilkommunikációba (az SZTE és a Magyar Telekom közös kurzusa)	3	1		
+IB372E	Logikai következtetési rendszerek	3	1		
+IB315E	Mikrovezérlők alkalmazástechnikája	3	1		
+IBK404E	Algoritmusok és adatszerkezetek II.	2	1		
+IB042e	Digitális képfeldolgozás	2	1		
+FBN609L-00002	Digitális laboratóriumi gyakorlatok	4	1		
+GKBN01E	Menedzsment alapismeretek	2	1		
+IBK404G	Algoritmusok és adatszerkezetek II.	2	1		
+IB715L	PLC-k és SCADA rendszerek (gyak)	2	1		
+IB470G	Mobil alkalmazásfejlesztés	2	1		
+IB411e-00001	Számítógéppel támogatott tervezés	3	1		
+IB715E	PLC-k és SCADA rendszerek	1	1		
+IB042g	Digitális képfeldolgozás gyakorlat	2	1		
+IB470E	Mobil alkalmazásfejlesztés	1	1		
+IB082e	IT Élet – Mi vár rád a munkahelyen?	3	1		
+IB372G	Logikai következtetési rendszerek gyak.	1	1
